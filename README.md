@@ -1,5 +1,5 @@
 # infotrixs
-#Description :
+Description :
 - Develop a command-line weather checking application using Python, use options based
 to control the application behavior
 - Implement functionalities such as checking weather by city name, CRUD operation on
